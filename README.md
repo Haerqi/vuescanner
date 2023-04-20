@@ -1,5 +1,6 @@
 # vuescanner
 我管这玩意叫vue扫描器
+
 打开一个vue的站点，然后找到他的app.js，复制粘贴，获取path 然后就愉快的测试了
 
 参考 https://github.com/zangcc/Aakian-v1.0 
